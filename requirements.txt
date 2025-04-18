@@ -1,0 +1,13 @@
+#openai
+langchain
+#langchain-openai
+langchain-google-genai
+langchain_pinecone
+pydantic==1.10.8
+pytube
+python-dotenv
+pinecone-client
+scikit-learn
+google-genai
+docarray
+git+https://github.com/openai/whisper.git

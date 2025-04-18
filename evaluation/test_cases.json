@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What are the three types of AI tools mentioned in the course?",
+        "reference_answer": "1) Standalone tools (e.g., ChatGPT, Gemini, MidJourney), 2) Tools with integrated AI features (e.g., Gemini in Google Docs/Slides), 3) Custom AI solutions (tailor-made applications like John Hopkins' sepsis detection system).",
+        "context_keywords": ["Standalone", "integrated AI features", "custom AI solutions", "sepsis detection"]
+    },
+    {
+        "question": "What is the key prompt engineering tip for working with AI tools?",
+        "reference_answer": "Surface the implied context explicitly. Example: When negotiating a raise, include context like previous raises and industry averages rather than assuming the AI knows this information.",
+        "context_keywords": ["implied context", "negotiation", "vegetarian friend", "explicitly stated"]
+    },
+    {
+        "question": "Explain the difference between zero-shot, one-shot, and few-shot prompting.",
+        "reference_answer": "Zero-shot: No examples provided (e.g., 'Write a Bumble pickup line'). One-shot: One example given. Few-shot: Two or more examples provided. More examples lead to more relevant outputs.",
+        "context_keywords": ["zero-shot", "one-shot", "few-shot", "pickup line examples"]
+    },
+    {
+        "question": "How does Chain of Thought prompting improve AI outputs for complex tasks?",
+        "reference_answer": "It breaks tasks into manageable steps. Example: Writing a cover letter in stages (hook → body → closing) rather than asking for a complete letter at once.",
+        "context_keywords": ["Chain of Thought", "manageable steps", "cover letter", "resume"]
+    },
+    {
+        "question": "What are the three main limitations of AI discussed in the course?",
+        "reference_answer": "1) Biased training data, 2) Insufficient/outdated data (cutoff dates), 3) Hallucinations (factually inaccurate outputs).",
+        "context_keywords": ["biased data", "cutoff date", "hallucinations", "high stake tasks"]
+    },
+    {
+        "question": "Who is the AI Essentials course NOT recommended for?",
+        "reference_answer": "Those already using AI tools daily who want deep technical implementations. The course focuses on beginner-level concepts with broad examples.",
+        "context_keywords": ["not for experts", "beginner-level", "vague examples", "customer service"]
+    },
+    {
+        "question": "What are three advantages of Google's AI Essentials course?",
+        "reference_answer": "1) Taught by Google AI experts, 2) Uses simple visual analogies (e.g., car/engine), 3) Includes practical interactive elements and graded assignments.",
+        "context_keywords": ["Google experts", "visual analogies", "interactive elements", "graded assignments"]
+    }
+]
